@@ -1,0 +1,12 @@
+digraph _logic_scenarioConstruction {
+rankdir=LR;
+node [shape = doublecircle]; browserClosed;
+node [shape = circle]; browserOpen browserSearched notBrowsing browserOpen;
+node [shape = point]; _s_s;
+_s_s -> browserOpen;
+browserOpen -> browserClosed [ label = "(1) closingBrowser\\\\System . out . println ( ) ; HighLevelEvent highLevelEvent = hleEntityPair1 . getHighLevelEvent ( ) ; Entity entity = hleEntityPair1 . getEntity ( ) ; System . out . println ( \" Channel received high level event  \" + highLevelEvent . getId ( ) + \"  With Entity  \" + entity . getEntityValue ( ) ) ; highLevelTimeline . add ( highLevelEvent ) ; System . out . println ( ) ; System . out . println ( \" SCENARIO \" ) ; System . out . println ( \" \t \" + highLevelTimeline ) ; "];
+browserOpen -> browserSearched [ label = "(2) searchingBrowser\\\\System . out . println ( ) ; HighLevelEvent highLevelEvent = hleEntityPair1 . getHighLevelEvent ( ) ; Entity entity = hleEntityPair1 . getEntity ( ) ; System . out . println ( \" Channel received high level event  \" + highLevelEvent . getId ( ) + \"  With Entity  \" + entity . getEntityValue ( ) ) ; highLevelTimeline . add ( highLevelEvent ) ; "];
+browserSearched -> browserSearched [ label = "(1) searchingBrowser\\\\System . out . println ( ) ; HighLevelEvent highLevelEvent = hleEntityPair1 . getHighLevelEvent ( ) ; Entity entity = hleEntityPair1 . getEntity ( ) ; System . out . println ( \" Channel received high level event  \" + highLevelEvent . getId ( ) + \"  With Entity  \" + entity . getEntityValue ( ) ) ; highLevelTimeline . add ( highLevelEvent ) ; "];
+browserSearched -> browserSearched [ label = "(2) downloadingFile\\\\System . out . println ( ) ; HighLevelEvent highLevelEvent = hleEntityPair1 . getHighLevelEvent ( ) ; Entity entity = hleEntityPair1 . getEntity ( ) ; System . out . println ( \" Channel received high level event  \" + highLevelEvent . getId ( ) + \"  With Entity  \" + entity . getEntityValue ( ) ) ; highLevelTimeline . add ( highLevelEvent ) ; "];
+browserSearched -> browserClosed [ label = "(3) closingBrowser\\\\System . out . println ( ) ; HighLevelEvent highLevelEvent = hleEntityPair1 . getHighLevelEvent ( ) ; Entity entity = hleEntityPair1 . getEntity ( ) ; System . out . println ( \" Channel received high level event  \" + highLevelEvent . getId ( ) + \"  With Entity  \" + entity . getEntityValue ( ) ) ; highLevelTimeline . add ( highLevelEvent ) ; System . out . println ( ) ; System . out . println ( \" SCENARIO \" ) ; System . out . println ( \" \t \" + highLevelTimeline ) ; "];
+}

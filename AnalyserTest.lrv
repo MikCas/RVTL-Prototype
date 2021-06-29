@@ -1,0 +1,392 @@
+IMPORTS{
+	import  java.lang.String;
+	import  java.util.ArrayList;
+	import  java.time.*;
+	import  imports.LowLevelEvent;
+	import 	imports.HighLevelEvent;
+	import  imports.Entity;
+	import  imports.Multiset;
+	import  imports.HleEntityPair;
+	import java.util.HashSet;
+	import java.util.Set;
+}%%IMPORTS
+
+GLOBAL{
+	
+	VARIABLES{
+		Channel highLevelToScenario = new Channel();
+		Channel testing = new Channel();
+		int highLevelId = 0;
+		int scenarioId = 0;
+		
+%%		Used to determine if the current scenario has matched and if so we output the result
+		boolean scenarioMatched = false;
+	}%%VARIABLES
+	
+	EVENTS{		 
+		
+%%		Opening browser 
+		openingBrowser(HleEntityPair hleEntityPair) = {highLevelToScenario.receive(HleEntityPair hleEntityPair)} filter {hleEntityPair.getHighLevelEvent().containsAnchorEvent("Opened Browser")}
+			
+%%		Searching browsing 
+		searchingBrowser(HleEntityPair hleEntityPair) = {highLevelToScenario.receive(HleEntityPair hleEntityPair)}  filter {hleEntityPair.getHighLevelEvent().containsAnchorEvent("Search Browser")}
+			
+%%		Downloading file
+		downloadingFile(HleEntityPair hleEntityPair) = {highLevelToScenario.receive(HleEntityPair hleEntityPair)}  filter {hleEntityPair.getHighLevelEvent().containsAnchorEvent("Downloaded File")}
+		
+%%		writtenFileTestEvent(HleEntityPair hleEntityPair) = {highLevelToScenario.receive(HleEntityPair hleEntityPair)}  filter {hleEntityPair.getHighLevelEvent().containsAnchorEvent("Written File")}
+		
+%%		appendedFileTestEvent(HleEntityPair hleEntityPair) = {highLevelToScenario.receive(HleEntityPair hleEntityPair)}  filter {hleEntityPair.getHighLevelEvent().containsAnchorEvent("Appended File")}
+		
+%%      Closing Browser
+		closingBrowser(HleEntityPair hleEntityPair) = {highLevelToScenario.receive(HleEntityPair hleEntityPair)}  filter {hleEntityPair.getHighLevelEvent().containsAnchorEvent("Closed Browser")}
+	}%%EVENTS
+	
+	FOREACH(Entity subject){
+		VARIABLES{
+	%%		Arraylist which keeps track of matched high-level events
+			ArrayList<HighLevelEvent> highLevelTimeline = new ArrayList<HighLevelEvent>();
+			}
+		EVENTS{
+			channelHighLevelToScenario(HleEntityPair hleEntityPair1) = {highLevelToScenario.receive(HleEntityPair hleEntityPair1)} where {subject = hleEntityPair1.getEntity();}
+			
+%%		    Opening browser 
+			openingBrowser(HleEntityPair hleEntityPair1) = {highLevelToScenario.receive(HleEntityPair hleEntityPair1)} filter {hleEntityPair1.getHighLevelEvent().containsAnchorEvent("Opened Browser")} where {subject = hleEntityPair1.getEntity();}
+			
+%%		    Searching browsing 
+			searchingBrowser(HleEntityPair hleEntityPair1) = {highLevelToScenario.receive(HleEntityPair hleEntityPair1)}  filter {hleEntityPair1.getHighLevelEvent().containsAnchorEvent("Search Browser")} where {subject = hleEntityPair1.getEntity();}
+				
+%%		    Downloading file
+			downloadingFile(HleEntityPair hleEntityPair1) = {highLevelToScenario.receive(HleEntityPair hleEntityPair1)}  filter {hleEntityPair1.getHighLevelEvent().containsAnchorEvent("Downloaded File")} where {subject = hleEntityPair1.getEntity();}
+			
+%%          Closing Browser
+			closingBrowser(HleEntityPair hleEntityPair1) = {highLevelToScenario.receive(HleEntityPair hleEntityPair1)}  filter {hleEntityPair1.getHighLevelEvent().containsAnchorEvent("Closed Browser")} where {subject = hleEntityPair1.getEntity();}
+		}	
+		
+		PROPERTY scenarioConstruction{
+			STATES{
+				ACCEPTING {browserClosed}
+				NORMAL {
+					browserOpen{} 
+					browserSearched{}
+%%					deviceDetected{}
+					notBrowsing{}
+%%					fileWritten{}
+%%					fileAppended{}
+%%					logOn{}
+%%					logOff{}
+				}
+				STARTING {browserOpen}
+			}%%STATES
+					
+			TRANSITIONS{
+							
+%%				notBrowsing -> notBrowsing [channelHighLevelToScenario(HleEntityPair hleEntityPair1) \\ 
+%%					
+%%					
+%%					System.out.println();
+%%					
+%%					HighLevelEvent highLevelEvent = hleEntityPair1.getHighLevelEvent();
+%%					Entity entity = hleEntityPair1.getEntity();
+%%					
+%%					System.out.println("Channel received high level event " + highLevelEvent.getId() + " With Entity " + entity.getEntityValue());
+%%					
+%%%%					
+%%%%					System.out.println("Channel received high level event " + highLevelEvent.getId());
+%%%%					
+%%%%					System.out.println("SUBTIMELINE\n");
+%%%%					for(LowLevelEvent lle: highLevelEvent.getLowLevelEventSubTimeline()){
+%%%%						System.out.println("\tevent " + lle.getId());
+%%%%					}
+%%%%							
+%%%%					System.out.println();
+%%%%					
+%%%%					System.out.println("ENTITY SET");
+%%%%					System.out.println("\t" + highLevelEvent.getEntityMultiSet());	
+%%%%					
+%%%%					System.out.println();
+%%%%					
+%%%%					System.out.println("ANCHOR EVENTS");
+%%%%					System.out.println("\t" + highLevelEvent.getAnchorEvents());	
+%%					
+%%				]		
+				
+%%				notBrowsing -> browserOpen [openingBrowser(HleEntityPair hleEntityPair1) \\ 
+%%					
+%%					
+%%					System.out.println();
+%%					
+%%					HighLevelEvent highLevelEvent = hleEntityPair1.getHighLevelEvent();
+%%					Entity entity = hleEntityPair1.getEntity();
+%%					
+%%					System.out.println("Channel received high level event " + highLevelEvent.getId() + " With Entity " + entity.getEntityValue());
+%%					
+%%				]		
+%%				
+				browserOpen -> browserClosed [closingBrowser(HleEntityPair hleEntityPair1) \\
+					
+					System.out.println();
+					
+					HighLevelEvent highLevelEvent = hleEntityPair1.getHighLevelEvent();
+					Entity entity = hleEntityPair1.getEntity();
+					
+					System.out.println("Channel received high level event " + highLevelEvent.getId() + " With Entity " + entity.getEntityValue());
+					
+					highLevelTimeline.add(highLevelEvent);
+					
+					System.out.println();
+					
+					System.out.println("SCENARIO");
+					System.out.println("\t" + highLevelTimeline);	
+				]
+				
+				browserOpen -> browserSearched [searchingBrowser(HleEntityPair hleEntityPair1) \\
+					
+					System.out.println();
+					
+					HighLevelEvent highLevelEvent = hleEntityPair1.getHighLevelEvent();
+					Entity entity = hleEntityPair1.getEntity();
+					
+					System.out.println("Channel received high level event " + highLevelEvent.getId() + " With Entity " + entity.getEntityValue());
+					
+					highLevelTimeline.add(highLevelEvent);
+					
+				]
+				
+				browserSearched -> browserSearched [searchingBrowser(HleEntityPair hleEntityPair1) \\
+					
+					System.out.println();
+					
+					HighLevelEvent highLevelEvent = hleEntityPair1.getHighLevelEvent();
+					Entity entity = hleEntityPair1.getEntity();
+					
+					System.out.println("Channel received high level event " + highLevelEvent.getId() + " With Entity " + entity.getEntityValue());
+					
+					highLevelTimeline.add(highLevelEvent);
+					
+				]
+				
+				browserSearched -> browserSearched [downloadingFile(HleEntityPair hleEntityPair1) \\
+					
+					System.out.println();
+					
+					HighLevelEvent highLevelEvent = hleEntityPair1.getHighLevelEvent();
+					Entity entity = hleEntityPair1.getEntity();
+					
+					System.out.println("Channel received high level event " + highLevelEvent.getId() + " With Entity " + entity.getEntityValue());
+					
+					highLevelTimeline.add(highLevelEvent);
+					
+				]
+				
+				browserSearched -> browserClosed [closingBrowser(HleEntityPair hleEntityPair1) \\
+					
+					System.out.println();
+					
+					HighLevelEvent highLevelEvent = hleEntityPair1.getHighLevelEvent();
+					Entity entity = hleEntityPair1.getEntity();
+					
+					System.out.println("Channel received high level event " + highLevelEvent.getId() + " With Entity " + entity.getEntityValue());
+					
+					highLevelTimeline.add(highLevelEvent);
+					
+					System.out.println();
+					
+					System.out.println("SCENARIO");
+					System.out.println("\t" + highLevelTimeline);	
+					
+				]
+	
+%%				start -> start [channelHighLevelToScenario(HleEntityPair hleEntityPair1) \\
+%%					
+%%					System.out.println();
+%%					HighLevelEvent highLevelEvent = hleEntityPair1.getHighLevelEvent();
+%%					Entity entity = hleEntityPair1.getEntity();
+%%					
+%%	%%				if(subject.equals(entity)){
+%%						System.out.println("subject is " + subject.getEntityValue());
+%%					
+%%	%%				Filter with current object now
+%%					System.out.println("Channel received high level event " + highLevelEvent.getId() + " With Entity " + hleEntityPair1.getEntity().getEntityValue());
+%%					
+%%	%%				if(scenarioMatched){
+%%	%%%%					Send the matched scenario to a new channel maybe 
+%%	%%					scenarioMatched = false
+%%	%%				}
+%%					
+%%					
+%%	%%				}
+%%	%%				
+%%	%%				else{
+%%	%%					System.out.println("Should be outside system");
+%%	%%					System.out.println("subject is " + subject.getEntityValue());
+%%	%%					System.out.println("Channel received high level event " + highLevelEvent.getId() + " With Entity " + hleEntityPair1.getEntity().getEntityValue());
+%%	%%				}
+%%					System.out.println();
+%%				]
+
+					   	
+			}%%TRANSITIONS
+		}%%PROPERTY
+	}%%FOREACH
+	
+	FOREACH(Entity entity){
+		EVENTS{
+			readCurrentLowLevelEventMatchedEntity(LowLevelEvent lowLevelEvent1, Entity entity1) = {*.lowLevelEventEntityReader(LowLevelEvent lowLevelEvent1,Entity entity1)} where{entity = entity1;}	
+			
+%%			Opened browser anchor event 
+			openedBrowserAnchorEvent(LowLevelEvent lowLevelEvent1, Entity entity1) = {*.lowLevelEventEntityReader(LowLevelEvent lowLevelEvent1,Entity entity1)} filter {lowLevelEvent1.getMessage().contains("[4688 /")  && lowLevelEvent1.getMessage().contains("C:\\Program Files\\Mozilla Firefox\\firefox.exe")} where{entity = entity1;}
+		
+			testAnchorEvent(LowLevelEvent lowLevelEvent1, Entity entity1) = {*.lowLevelEventEntityReader(LowLevelEvent lowLevelEvent1,Entity entity1)} filter {lowLevelEvent1.getMessage().contains("[4688 /")} where{entity = entity1;}
+			
+%%			Search browser anchor event
+			searchBrowserAnchorEvent(LowLevelEvent lowLevelEvent1, Entity entity1) = {*.lowLevelEventEntityReader(LowLevelEvent lowLevelEvent1,Entity entity1)} filter {lowLevelEvent1.getTimeStampDesc().equals("Last Visited Time") && lowLevelEvent1.getSourceLong().equals("Firefox History")} where{entity = entity1;}
+			
+%%			Download file anchor event
+			downloadedFileAnchorEvent(LowLevelEvent lowLevelEvent1, Entity entity1) = {*.lowLevelEventEntityReader(LowLevelEvent lowLevelEvent1,Entity entity1)} filter {lowLevelEvent1.getTimeStampDesc().equals("Last Visited Time") && lowLevelEvent1.getSourceLong().equals("Firefox History")  && lowLevelEvent1.getMessage().contains("Transition: DOWNLOAD")} where{entity = entity1;}
+			
+%%			Closed browser anchor event
+			closedBrowserAnchorEvent(LowLevelEvent lowLevelEvent1, Entity entity1) = {*.lowLevelEventEntityReader(LowLevelEvent lowLevelEvent1,Entity entity1)}  filter {lowLevelEvent1.getMessage().contains("[4689 /") && lowLevelEvent1.getMessage().contains("C:\\Program Files\\Mozilla Firefox\\pingsender.exe")}  where{entity = entity1;}
+				
+%%			Device input anchor event
+			detectedDeviceAnchorEvent(LowLevelEvent lowLevelEvent1,Entity entity1) = {*.lowLevelEventEntityReader(LowLevelEvent lowLevelEvent1,Entity entity1)} filter {lowLevelEvent1.getMessage().contains("[2003 /")} where{entity = entity1;}
+		
+%%			Device removed anchor event
+			removedDeviceAnchorEvent(LowLevelEvent lowLevelEvent1,Entity entity1) = {*.lowLevelEventEntityReader(LowLevelEvent lowLevelEvent1,Entity entity1)} filter {lowLevelEvent1.getMessage().contains("[2102 /")} where{entity = entity1;}
+		}%%EVENTS
+		
+		FOREACH(Integer id){
+			VARIABLES{
+				ArrayList<LowLevelEvent> lowLevelEventSubTimeline = new ArrayList<LowLevelEvent>();
+				Multiset<Entity> entityMultiSet = new Multiset();
+				Multiset<String> anchorEvents = new Multiset();
+%%				Set<String> anchorEvents = new HashSet<String>();
+				Clock TPPMClock = new Clock();
+				boolean matchedWithTestEvent = false;
+			}%%VARIABLES
+			
+			EVENTS{
+				readCurrentlowLevelEventMatchedIdEntity(LowLevelEvent lowLevelEvent2, Entity entity2) = {*.lowLevelEventEntityReader(LowLevelEvent lowLevelEvent2,Entity entity2)} where{id = lowLevelEvent2.getId(); entity = entity2;}	
+			
+				TPPMClockAt10() = {TPPMClock@10}
+			}%%EVENTS
+			
+			PROPERTY HLEConstruction{
+				STATES{
+					ACCEPTING {accept}
+					NORMAL {normal}
+					STARTING {start}
+				}%%STATES
+				
+				TRANSITIONS{
+					
+%%					Entry point to create automata with unique (id, entity) pair
+					start -> normal [readCurrentlowLevelEventMatchedIdEntity(LowLevelEvent lowLevelEvent2, Entity entity2) \\
+					]
+					
+%%					Exit condition for automata to accept when time elapses	
+					normal -> accept [TPPMClockAt10 \\ 
+						
+%%						Create high-level event
+						HighLevelEvent hle = new HighLevelEvent(highLevelId, lowLevelEventSubTimeline, entityMultiSet, anchorEvents);
+						
+						System.out.println("HLE " + highLevelId + " CREATED\n");
+						System.out.println("SUBTIMELINE\n");
+						for(LowLevelEvent lle: hle.getLowLevelEventSubTimeline()){
+							System.out.println("\tevent " + lle.getId());
+						}
+						
+						System.out.println();
+				
+						System.out.println("ENTITY SET");
+						
+						System.out.println("\t" + hle.getEntityMultiSet());	
+				
+						System.out.println();
+					
+						System.out.println("ANCHOR EVENTS");
+						System.out.println("\t" + hle.getAnchorEvents());
+
+%%						Create high-level event, entity pair 
+%%						Loop through all unique unique elements of entity set by changing it inot a set (MAYBE ARRAY LIST LATER)
+						for (Entity e : hle.getEntityMultiSet().elementSet()) {
+
+%%							We are only sending subjects to the scenarios because the scenario analysers are only looking for subjects
+	
+							if(e.getEntityType() == true && !hle.getAnchorEvents().isEmpty()){
+%%								Create a HleEntityPair and send through channel 
+								HleEntityPair hleep = new HleEntityPair(hle, e);
+								highLevelToScenario.send(hleep);
+							}
+         				}
+
+%%						Increment highLevelId for the next high level event
+						highLevelId++;
+					]				   	 
+				   	 
+				   	normal -> normal [searchBrowserAnchorEvent(LowLevelEvent lowLevelEvent1, Entity entity1) \\
+				   		
+						anchorEvents.add("Search Browser");
+						matchedWithTestEvent = true;
+					]
+					
+					%%normal -> normal [testAnchorEvent(LowLevelEvent lowLevelEvent1, Entity entity1) \\
+				   		%%System.out.println("Test Anchor Event | lle id " + lowLevelEvent1.getId());
+						%%anchorEvents.add("Test");
+					%%]
+					
+%%					Test events used to take note of any matched events
+					normal -> normal [openedBrowserAnchorEvent(LowLevelEvent lowLevelEvent1, Entity entity1) \\
+						
+%%						The automata will have a record of the events matched during execution
+						anchorEvents.add("Opened Browser");
+						matchedWithTestEvent = true;
+				   	 ]	
+					
+					normal -> normal [downloadedFileAnchorEvent(LowLevelEvent lowLevelEvent1, Entity entity1) \\
+						
+						anchorEvents.add("Downloaded File");
+						matchedWithTestEvent = true;
+					]
+					
+			   	 	normal -> normal [closedBrowserAnchorEvent(LowLevelEvent lowLevelEvent1, Entity entity1) \\
+						
+						anchorEvents.add("Closed Browser");
+						matchedWithTestEvent = true;
+					]
+					
+%%					normal -> normal [detectedDeviceAnchorEvent(LowLevelEvent lowLevelEvent1,Entity entity1) \\
+%%							anchorEvents.add("Detected Device");
+%%							matchedWithTestEvent = true;
+%%						]
+%%						
+%%					normal -> normal [writtenFileAnchorEvent(LowLevelEvent lowLevelEvent1,Entity entity1) \\
+%%							anchorEvents.add("Written File");
+%%							matchedWithTestEvent = true;
+%%						]
+%%						
+%%					normal -> normal [appendedFileAnchorEvent(LowLevelEvent lowLevelEvent1,Entity entity1) \\
+%%							anchorEvents.add("Appended File");
+%%							matchedWithTestEvent = true;
+%%						]
+%%						
+%%					normal -> normal [removedDeviceAnchorEvent(LowLevelEvent lowLevelEvent1,Entity entity1) \\
+%%							anchorEvents.add("Removed Device");
+%%							matchedWithTestEvent = true;
+%%						]
+					
+%%					General event used to read any current low-level event 
+					normal -> normal [readCurrentLowLevelEventMatchedEntity(LowLevelEvent lowLevelEvent1, Entity entity1) \\
+%%						Add current low-level event to sub timeline  
+						lowLevelEventSubTimeline.add(lowLevelEvent1);
+						
+%%						Add all the entities of the current low-level event to the 
+						for(Entity e: lowLevelEvent1.getEntities()){
+								entityMultiSet.add(e);
+						}
+				   	 ]					   				   	
+				}%%TRANSITIONS
+			}%%HLEConstruction
+		}%%FOREACH id  
+	}%%FOREACH entity
+}%%GLOBAL

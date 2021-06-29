@@ -1,0 +1,8 @@
+digraph _logic_scenarioTimeline {
+rankdir=LR;
+node [shape = doublecircle]; accept;
+node [shape = circle]; normal start;
+node [shape = point]; _s_s;
+_s_s -> start;
+start -> start [ label = "(1) channelTesting\\\\System . out . println ( \" IN SCENARIO TIMELINE for  \" + entity . getEntityValue ( ) ) ; System . out . println ( entity1 . getEntityValue ( ) + \" \n \" ) ; "];
+}

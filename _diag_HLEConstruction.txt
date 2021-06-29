@@ -1,0 +1,14 @@
+digraph _logic_HLEConstruction {
+rankdir=LR;
+node [shape = doublecircle]; accept;
+node [shape = circle]; normal start;
+node [shape = point]; _s_s;
+_s_s -> start;
+normal -> accept [ label = "(1) TPPMClockAt10\\\\HighLevelEvent hle = new HighLevelEvent ( highLevelId , lowLevelEventSubTimeline , entityMultiSet , anchorEvents ) ; System . out . println ( \" HLE  \" + highLevelId + \"  CREATED\n \" ) ; System . out . println ( \" SUBTIMELINE\n \" ) ; for ( LowLevelEvent lle : hle . getLowLevelEventSubTimeline ( ) ) { System . out . println ( \" \tevent  \" + lle . getId ( ) ) ; } System . out . println ( ) ; System . out . println ( \" ENTITY SET \" ) ; System . out . println ( \" \t \" + hle . getEntityMultiSet ( ) ) ; System . out . println ( ) ; System . out . println ( \" ANCHOR EVENTS \" ) ; System . out . println ( \" \t \" + hle . getAnchorEvents ( ) ) ; for ( Entity e : hle . getEntityMultiSet ( ) . elementSet ( ) ) { if ( e . getEntityType ( ) == true && ! hle . getAnchorEvents ( ) . isEmpty ( ) ) { HleEntityPair hleep = new HleEntityPair ( hle , e ) ; highLevelToScenario . send ( hleep ) ; } } highLevelId ++ ; "];
+normal -> normal [ label = "(2) searchBrowserAnchorEvent\\\\anchorEvents . add ( \" Search Browser \" ) ; matchedWithTestEvent = true ; "];
+normal -> normal [ label = "(3) openedBrowserAnchorEvent\\\\anchorEvents . add ( \" Opened Browser \" ) ; matchedWithTestEvent = true ; "];
+normal -> normal [ label = "(4) downloadedFileAnchorEvent\\\\anchorEvents . add ( \" Downloaded File \" ) ; matchedWithTestEvent = true ; "];
+normal -> normal [ label = "(5) closedBrowserAnchorEvent\\\\anchorEvents . add ( \" Closed Browser \" ) ; matchedWithTestEvent = true ; "];
+normal -> normal [ label = "(6) readCurrentLowLevelEventMatchedEntity\\\\lowLevelEventSubTimeline . add ( lowLevelEvent1 ) ; for ( Entity e : lowLevelEvent1 . getEntities ( ) ) { entityMultiSet . add ( e ) ; } "];
+start -> normal [ label = "(1) readCurrentlowLevelEventMatchedIdEntity"];
+}

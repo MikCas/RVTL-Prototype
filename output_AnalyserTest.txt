@@ -1,0 +1,2527 @@
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+HLE 0 CREATED
+
+SUBTIMELINE
+
+	event 0
+	event 1
+	event 2
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001 x 3, Mikhail x 3, 0x0000000000095fb0 x 3, 0x00000000000014f4, C:\Windows\System32\RuntimeBroker.exe, 0x00000000000008a8, C:\Program Files\Mozilla Firefox\firefox.exe, 0x0000000000000000, C:\Windows\explorer.exe, 0x0000000000001980 x 2, 0x0000000000004430 x 2]
+
+ANCHOR EVENTS
+	[Opened Browser]
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+HLE 1 CREATED
+
+SUBTIMELINE
+
+	event 0
+	event 1
+	event 2
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001 x 3, Mikhail x 3, 0x0000000000095fb0 x 3, 0x00000000000014f4, C:\Windows\System32\RuntimeBroker.exe, 0x00000000000008a8, C:\Program Files\Mozilla Firefox\firefox.exe, 0x0000000000000000, C:\Windows\explorer.exe, 0x0000000000001980 x 2, 0x0000000000004430 x 2]
+
+ANCHOR EVENTS
+	[Opened Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+HLE 2 CREATED
+
+SUBTIMELINE
+
+	event 0
+	event 1
+	event 2
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001 x 3, Mikhail x 3, 0x0000000000095fb0 x 3, 0x00000000000014f4, C:\Windows\System32\RuntimeBroker.exe, 0x00000000000008a8, C:\Program Files\Mozilla Firefox\firefox.exe, 0x0000000000000000, C:\Windows\explorer.exe, 0x0000000000001980 x 2, 0x0000000000004430 x 2]
+
+ANCHOR EVENTS
+	[Opened Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+HLE 3 CREATED
+
+SUBTIMELINE
+
+	event 0
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x00000000000014f4, C:\Windows\System32\RuntimeBroker.exe]
+
+ANCHOR EVENTS
+	[]
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(0 ) STATE::>normal
+HLE 4 CREATED
+
+SUBTIMELINE
+
+	event 0
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x00000000000014f4, C:\Windows\System32\RuntimeBroker.exe]
+
+ANCHOR EVENTS
+	[]
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+HLE 5 CREATED
+
+SUBTIMELINE
+
+	event 1
+	event 2
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001 x 2, Mikhail x 2, 0x0000000000095fb0 x 2, 0x00000000000008a8, C:\Program Files\Mozilla Firefox\firefox.exe, 0x0000000000000000, C:\Windows\explorer.exe, 0x0000000000001980 x 2, 0x0000000000004430 x 2]
+
+ANCHOR EVENTS
+	[Opened Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+HLE 6 CREATED
+
+SUBTIMELINE
+
+	event 1
+	event 2
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001 x 2, Mikhail x 2, 0x0000000000095fb0 x 2, 0x00000000000008a8, C:\Program Files\Mozilla Firefox\firefox.exe, 0x0000000000000000, C:\Windows\explorer.exe, 0x0000000000001980 x 2, 0x0000000000004430 x 2]
+
+ANCHOR EVENTS
+	[Opened Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+HLE 7 CREATED
+
+SUBTIMELINE
+
+	event 1
+	event 2
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001 x 2, Mikhail x 2, 0x0000000000095fb0 x 2, 0x00000000000008a8, C:\Program Files\Mozilla Firefox\firefox.exe, 0x0000000000000000, C:\Windows\explorer.exe, 0x0000000000001980 x 2, 0x0000000000004430 x 2]
+
+ANCHOR EVENTS
+	[Opened Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+HLE 8 CREATED
+
+SUBTIMELINE
+
+	event 1
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x00000000000008a8, C:\Program Files\Mozilla Firefox\firefox.exe, 0x0000000000000000, C:\Windows\explorer.exe]
+
+ANCHOR EVENTS
+	[Opened Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+HLE 9 CREATED
+
+SUBTIMELINE
+
+	event 1
+	event 3
+	event 4
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x00000000000008a8, C:\Program Files\Mozilla Firefox\firefox.exe x 3, 0x0000000000000000, C:\Windows\explorer.exe, https://www.mozilla.org/privacy/firefox/ , - x 3,  www.mozilla.org (URL not typed directly) , https://www.google.com/search?client=firefox-b-d&q=google+drive , google drive - Fittex bil-Google,  www.google.com (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Opened Browser, Search Browser x 2]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+
+Channel received high level event 8 With Entity 0x0000000000095fb0
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+
+Channel received high level event 8 With Entity 0x0000000000095fb0
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+
+Channel received high level event 8 With Entity 0x0000000000095fb0
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 9 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 9 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 9 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 9 With Entity Mikhail
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 9 With Entity Mikhail
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 9 With Entity Mikhail
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+HLE 10 CREATED
+
+SUBTIMELINE
+
+	event 1
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x00000000000008a8, C:\Program Files\Mozilla Firefox\firefox.exe, 0x0000000000000000, C:\Windows\explorer.exe]
+
+ANCHOR EVENTS
+	[Opened Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+HLE 11 CREATED
+
+SUBTIMELINE
+
+	event 1
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x00000000000008a8, C:\Program Files\Mozilla Firefox\firefox.exe, 0x0000000000000000, C:\Windows\explorer.exe]
+
+ANCHOR EVENTS
+	[Opened Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(1 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+HLE 12 CREATED
+
+SUBTIMELINE
+
+	event 2
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x0000000000001980 x 2, 0x0000000000004430 x 2]
+
+ANCHOR EVENTS
+	[]
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+HLE 13 CREATED
+
+SUBTIMELINE
+
+	event 2
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x0000000000001980 x 2, 0x0000000000004430 x 2]
+
+ANCHOR EVENTS
+	[]
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+HLE 14 CREATED
+
+SUBTIMELINE
+
+	event 2
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x0000000000001980 x 2, 0x0000000000004430 x 2]
+
+ANCHOR EVENTS
+	[]
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+HLE 15 CREATED
+
+SUBTIMELINE
+
+	event 2
+	event 2
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001 x 2, Mikhail x 2, 0x0000000000095fb0 x 2, 0x0000000000001980 x 4, 0x0000000000004430 x 4]
+
+ANCHOR EVENTS
+	[]
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(2 ) STATE::>normal
+HLE 16 CREATED
+
+SUBTIMELINE
+
+	event 2
+	event 2
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001 x 2, Mikhail x 2, 0x0000000000095fb0 x 2, 0x0000000000001980 x 4, 0x0000000000004430 x 4]
+
+ANCHOR EVENTS
+	[]
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+HLE 17 CREATED
+
+SUBTIMELINE
+
+	event 3
+	event 4
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe x 2, https://www.mozilla.org/privacy/firefox/ , - x 3,  www.mozilla.org (URL not typed directly) , https://www.google.com/search?client=firefox-b-d&q=google+drive , google drive - Fittex bil-Google,  www.google.com (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Search Browser x 2]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 11 With Entity 0x0000000000095fb0
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 11 With Entity 0x0000000000095fb0
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 11 With Entity 0x0000000000095fb0
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserOpen
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+HLE 18 CREATED
+
+SUBTIMELINE
+
+	event 3
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://www.mozilla.org/privacy/firefox/ , - x 2,  www.mozilla.org (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 17 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 17 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 17 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserOpen
+
+Channel received high level event 17 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+HLE 19 CREATED
+
+SUBTIMELINE
+
+	event 3
+	event 3
+	event 4
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe x 3, https://www.mozilla.org/privacy/firefox/  x 2, - x 5,  www.mozilla.org (URL not typed directly)  x 2, https://www.google.com/search?client=firefox-b-d&q=google+drive , google drive - Fittex bil-Google,  www.google.com (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Search Browser x 3]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 18 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 18 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 18 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 18 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+HLE 20 CREATED
+
+SUBTIMELINE
+
+	event 3
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://www.mozilla.org/privacy/firefox/ , - x 2,  www.mozilla.org (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 19 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 19 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 19 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 19 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(3 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+HLE 21 CREATED
+
+SUBTIMELINE
+
+	event 4
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://www.google.com/search?client=firefox-b-d&q=google+drive , google drive - Fittex bil-Google,  www.google.com (URL not typed directly) , -]
+
+ANCHOR EVENTS
+	[Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 20 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 20 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 20 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 20 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+HLE 22 CREATED
+
+SUBTIMELINE
+
+	event 4
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://www.google.com/search?client=firefox-b-d&q=google+drive , google drive - Fittex bil-Google,  www.google.com (URL not typed directly) , -]
+
+ANCHOR EVENTS
+	[Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 21 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 21 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 21 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 21 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+HLE 23 CREATED
+
+SUBTIMELINE
+
+	event 4
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://www.google.com/search?client=firefox-b-d&q=google+drive , google drive - Fittex bil-Google,  www.google.com (URL not typed directly) , -]
+
+ANCHOR EVENTS
+	[Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 22 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 22 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 22 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 22 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+HLE 24 CREATED
+
+SUBTIMELINE
+
+	event 4
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://www.google.com/search?client=firefox-b-d&q=google+drive , google drive - Fittex bil-Google,  www.google.com (URL not typed directly) , -]
+
+ANCHOR EVENTS
+	[Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 23 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 23 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 23 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 23 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+HLE 25 CREATED
+
+SUBTIMELINE
+
+	event 4
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://www.google.com/search?client=firefox-b-d&q=google+drive , google drive - Fittex bil-Google,  www.google.com (URL not typed directly) , -]
+
+ANCHOR EVENTS
+	[Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 24 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 24 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 24 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 24 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(4 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(5 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(5 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(5 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(5 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(5 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(5 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(5 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(5 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(5 ) STATE::>normal
+HLE 26 CREATED
+
+SUBTIMELINE
+
+	event 5
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x0000000000003b28]
+
+ANCHOR EVENTS
+	[]
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(5 ) STATE::>normal
+HLE 27 CREATED
+
+SUBTIMELINE
+
+	event 5
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x0000000000003b28]
+
+ANCHOR EVENTS
+	[]
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(5 ) STATE::>normal
+HLE 28 CREATED
+
+SUBTIMELINE
+
+	event 5
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x0000000000003b28]
+
+ANCHOR EVENTS
+	[]
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(5 ) STATE::>normal
+HLE 29 CREATED
+
+SUBTIMELINE
+
+	event 5
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x0000000000003b28]
+
+ANCHOR EVENTS
+	[]
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+HLE 30 CREATED
+
+SUBTIMELINE
+
+	event 6
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://drive.google.com/drive/ , Google Drive,  drive.google.com ,  https://drive.google.com/drive/?utm_source=en (drive.google.com) (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 25 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 25 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 25 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 25 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+HLE 31 CREATED
+
+SUBTIMELINE
+
+	event 6
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://drive.google.com/drive/ , Google Drive,  drive.google.com ,  https://drive.google.com/drive/?utm_source=en (drive.google.com) (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 30 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 30 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 30 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 30 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+HLE 32 CREATED
+
+SUBTIMELINE
+
+	event 6
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://drive.google.com/drive/ , Google Drive,  drive.google.com ,  https://drive.google.com/drive/?utm_source=en (drive.google.com) (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 31 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 31 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 31 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 31 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+HLE 33 CREATED
+
+SUBTIMELINE
+
+	event 6
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://drive.google.com/drive/ , Google Drive,  drive.google.com ,  https://drive.google.com/drive/?utm_source=en (drive.google.com) (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 32 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 32 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 32 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 32 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+HLE 34 CREATED
+
+SUBTIMELINE
+
+	event 6
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://drive.google.com/drive/ , Google Drive,  drive.google.com ,  https://drive.google.com/drive/?utm_source=en (drive.google.com) (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 33 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 33 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 33 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 33 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(6 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+HLE 35 CREATED
+
+SUBTIMELINE
+
+	event 7
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://doc-08-10-docstext.googleusercontent.com/export/abatkoh75paus9j4hkfmi2klgg/v45pfual5mh0dtg7e653hssaj0/1599778545000/112720484631900048031/112720484631900048031/1bT9jmJUmr-aGUgWCS9v5HExTTtbw9CXjGWCmPvqiI4M?format=docx&dat=AJ7Y-hSn7OCThTxyT654XSxQfMp_hP8Siz5RPcPok80pv8dE5n4Sn5GwrqMe6VTxmci2yMqWhDB6K2hNaq1RMfLBYIdA4bjKfBtMDBBoig-H6fJBk0jalYncRQjatwBj_UFKJD1W0b4HW8jyLaDHwzSHMe5AmftS_SjvD4UXob46QkyKsNIaa8SDm0xuT2aK5bbGdj7xVdYJhUjIwV7PHwNNnbP8CayHKRbbXZG2VKB9SaKxYGg9tcR9q4hZ3VtBsgitkRdiOYGno-1fu4qIouq5pxur4POwlrtXSXQK0pALVULGP5yB1Ium9aOYWgEGVkPXJVA_eiP4P_tbtCdZdMyEmkgtD11D1DOTh8aBpqprvcfeZWaJKMX_wGfFQOifs07xokU3ALANybFX78X571Qy350I_DDWeWRryQAkwnKg6a2hXPUaZa0TGIHC7BI83R1TYZLpfp1aAokgjsIFkwHw6neKUDBlLIViMoM6giMU3UkMkUEoLIAFL-sk_5PH2aHfyhQZtDgEgJ6XEA7y1dDFbUGmhv0BX7LhUIW-051IxX_9xl5l-b4KQQFUFsh04er1f279VBVi73AdvYRLksWjEuzGzYCVd9U4V3_P5WfbTEEccArFi40tWDqCQS89AJqPxKvSnJ8BupalrWz7semNYA5C5t2gyFQATMONUw , testFile(2,  doc-08-10-docstext.googleusercontent.com ,  https://drive.google.com/drive/my-drive (drive.google.com) (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Downloaded File, Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 34 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 34 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 34 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 34 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 35 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 35 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 35 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 35 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+HLE 36 CREATED
+
+SUBTIMELINE
+
+	event 7
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://doc-08-10-docstext.googleusercontent.com/export/abatkoh75paus9j4hkfmi2klgg/v45pfual5mh0dtg7e653hssaj0/1599778545000/112720484631900048031/112720484631900048031/1bT9jmJUmr-aGUgWCS9v5HExTTtbw9CXjGWCmPvqiI4M?format=docx&dat=AJ7Y-hSn7OCThTxyT654XSxQfMp_hP8Siz5RPcPok80pv8dE5n4Sn5GwrqMe6VTxmci2yMqWhDB6K2hNaq1RMfLBYIdA4bjKfBtMDBBoig-H6fJBk0jalYncRQjatwBj_UFKJD1W0b4HW8jyLaDHwzSHMe5AmftS_SjvD4UXob46QkyKsNIaa8SDm0xuT2aK5bbGdj7xVdYJhUjIwV7PHwNNnbP8CayHKRbbXZG2VKB9SaKxYGg9tcR9q4hZ3VtBsgitkRdiOYGno-1fu4qIouq5pxur4POwlrtXSXQK0pALVULGP5yB1Ium9aOYWgEGVkPXJVA_eiP4P_tbtCdZdMyEmkgtD11D1DOTh8aBpqprvcfeZWaJKMX_wGfFQOifs07xokU3ALANybFX78X571Qy350I_DDWeWRryQAkwnKg6a2hXPUaZa0TGIHC7BI83R1TYZLpfp1aAokgjsIFkwHw6neKUDBlLIViMoM6giMU3UkMkUEoLIAFL-sk_5PH2aHfyhQZtDgEgJ6XEA7y1dDFbUGmhv0BX7LhUIW-051IxX_9xl5l-b4KQQFUFsh04er1f279VBVi73AdvYRLksWjEuzGzYCVd9U4V3_P5WfbTEEccArFi40tWDqCQS89AJqPxKvSnJ8BupalrWz7semNYA5C5t2gyFQATMONUw , testFile(2,  doc-08-10-docstext.googleusercontent.com ,  https://drive.google.com/drive/my-drive (drive.google.com) (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Downloaded File, Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 35 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 35 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 35 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 35 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 36 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 36 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 36 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 36 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+HLE 37 CREATED
+
+SUBTIMELINE
+
+	event 7
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://doc-08-10-docstext.googleusercontent.com/export/abatkoh75paus9j4hkfmi2klgg/v45pfual5mh0dtg7e653hssaj0/1599778545000/112720484631900048031/112720484631900048031/1bT9jmJUmr-aGUgWCS9v5HExTTtbw9CXjGWCmPvqiI4M?format=docx&dat=AJ7Y-hSn7OCThTxyT654XSxQfMp_hP8Siz5RPcPok80pv8dE5n4Sn5GwrqMe6VTxmci2yMqWhDB6K2hNaq1RMfLBYIdA4bjKfBtMDBBoig-H6fJBk0jalYncRQjatwBj_UFKJD1W0b4HW8jyLaDHwzSHMe5AmftS_SjvD4UXob46QkyKsNIaa8SDm0xuT2aK5bbGdj7xVdYJhUjIwV7PHwNNnbP8CayHKRbbXZG2VKB9SaKxYGg9tcR9q4hZ3VtBsgitkRdiOYGno-1fu4qIouq5pxur4POwlrtXSXQK0pALVULGP5yB1Ium9aOYWgEGVkPXJVA_eiP4P_tbtCdZdMyEmkgtD11D1DOTh8aBpqprvcfeZWaJKMX_wGfFQOifs07xokU3ALANybFX78X571Qy350I_DDWeWRryQAkwnKg6a2hXPUaZa0TGIHC7BI83R1TYZLpfp1aAokgjsIFkwHw6neKUDBlLIViMoM6giMU3UkMkUEoLIAFL-sk_5PH2aHfyhQZtDgEgJ6XEA7y1dDFbUGmhv0BX7LhUIW-051IxX_9xl5l-b4KQQFUFsh04er1f279VBVi73AdvYRLksWjEuzGzYCVd9U4V3_P5WfbTEEccArFi40tWDqCQS89AJqPxKvSnJ8BupalrWz7semNYA5C5t2gyFQATMONUw , testFile(2,  doc-08-10-docstext.googleusercontent.com ,  https://drive.google.com/drive/my-drive (drive.google.com) (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Downloaded File, Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 36 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 36 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 36 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 36 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 37 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 37 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 37 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 37 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+HLE 38 CREATED
+
+SUBTIMELINE
+
+	event 7
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://doc-08-10-docstext.googleusercontent.com/export/abatkoh75paus9j4hkfmi2klgg/v45pfual5mh0dtg7e653hssaj0/1599778545000/112720484631900048031/112720484631900048031/1bT9jmJUmr-aGUgWCS9v5HExTTtbw9CXjGWCmPvqiI4M?format=docx&dat=AJ7Y-hSn7OCThTxyT654XSxQfMp_hP8Siz5RPcPok80pv8dE5n4Sn5GwrqMe6VTxmci2yMqWhDB6K2hNaq1RMfLBYIdA4bjKfBtMDBBoig-H6fJBk0jalYncRQjatwBj_UFKJD1W0b4HW8jyLaDHwzSHMe5AmftS_SjvD4UXob46QkyKsNIaa8SDm0xuT2aK5bbGdj7xVdYJhUjIwV7PHwNNnbP8CayHKRbbXZG2VKB9SaKxYGg9tcR9q4hZ3VtBsgitkRdiOYGno-1fu4qIouq5pxur4POwlrtXSXQK0pALVULGP5yB1Ium9aOYWgEGVkPXJVA_eiP4P_tbtCdZdMyEmkgtD11D1DOTh8aBpqprvcfeZWaJKMX_wGfFQOifs07xokU3ALANybFX78X571Qy350I_DDWeWRryQAkwnKg6a2hXPUaZa0TGIHC7BI83R1TYZLpfp1aAokgjsIFkwHw6neKUDBlLIViMoM6giMU3UkMkUEoLIAFL-sk_5PH2aHfyhQZtDgEgJ6XEA7y1dDFbUGmhv0BX7LhUIW-051IxX_9xl5l-b4KQQFUFsh04er1f279VBVi73AdvYRLksWjEuzGzYCVd9U4V3_P5WfbTEEccArFi40tWDqCQS89AJqPxKvSnJ8BupalrWz7semNYA5C5t2gyFQATMONUw , testFile(2,  doc-08-10-docstext.googleusercontent.com ,  https://drive.google.com/drive/my-drive (drive.google.com) (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Downloaded File, Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 37 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 37 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 37 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 37 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 38 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 38 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 38 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 38 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+HLE 39 CREATED
+
+SUBTIMELINE
+
+	event 7
+
+ENTITY SET
+	[C:\Program Files\Mozilla Firefox\firefox.exe, https://doc-08-10-docstext.googleusercontent.com/export/abatkoh75paus9j4hkfmi2klgg/v45pfual5mh0dtg7e653hssaj0/1599778545000/112720484631900048031/112720484631900048031/1bT9jmJUmr-aGUgWCS9v5HExTTtbw9CXjGWCmPvqiI4M?format=docx&dat=AJ7Y-hSn7OCThTxyT654XSxQfMp_hP8Siz5RPcPok80pv8dE5n4Sn5GwrqMe6VTxmci2yMqWhDB6K2hNaq1RMfLBYIdA4bjKfBtMDBBoig-H6fJBk0jalYncRQjatwBj_UFKJD1W0b4HW8jyLaDHwzSHMe5AmftS_SjvD4UXob46QkyKsNIaa8SDm0xuT2aK5bbGdj7xVdYJhUjIwV7PHwNNnbP8CayHKRbbXZG2VKB9SaKxYGg9tcR9q4hZ3VtBsgitkRdiOYGno-1fu4qIouq5pxur4POwlrtXSXQK0pALVULGP5yB1Ium9aOYWgEGVkPXJVA_eiP4P_tbtCdZdMyEmkgtD11D1DOTh8aBpqprvcfeZWaJKMX_wGfFQOifs07xokU3ALANybFX78X571Qy350I_DDWeWRryQAkwnKg6a2hXPUaZa0TGIHC7BI83R1TYZLpfp1aAokgjsIFkwHw6neKUDBlLIViMoM6giMU3UkMkUEoLIAFL-sk_5PH2aHfyhQZtDgEgJ6XEA7y1dDFbUGmhv0BX7LhUIW-051IxX_9xl5l-b4KQQFUFsh04er1f279VBVi73AdvYRLksWjEuzGzYCVd9U4V3_P5WfbTEEccArFi40tWDqCQS89AJqPxKvSnJ8BupalrWz7semNYA5C5t2gyFQATMONUw , testFile(2,  doc-08-10-docstext.googleusercontent.com ,  https://drive.google.com/drive/my-drive (drive.google.com) (URL not typed directly) ]
+
+ANCHOR EVENTS
+	[Downloaded File, Search Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 38 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 38 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 38 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 38 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 39 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 39 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 39 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 39 With Entity C:\Program Files\Mozilla Firefox\firefox.exe
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> browserSearched
+[HLEConstruction]AUTOMATON::> HLEConstruction(7 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+HLE 40 CREATED
+
+SUBTIMELINE
+
+	event 8
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x00000000000037c4, C:\Program Files\Mozilla Firefox\pingsender.exe]
+
+ANCHOR EVENTS
+	[Closed Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserSearched
+
+Channel received high level event 40 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+
+SCENARIO
+	[8, 9, 9, 11, 17, 18, 19, 20, 21, 22, 23, 24, 25, 30, 31, 32, 33, 34, 35, 35, 36, 36, 37, 37, 38, 38, 39, 40]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserSearched
+
+Channel received high level event 40 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+
+SCENARIO
+	[8, 9, 9, 11, 17, 18, 19, 20, 21, 22, 23, 24, 25, 30, 31, 32, 33, 34, 35, 35, 36, 36, 37, 37, 38, 38, 39, 40]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserSearched
+
+Channel received high level event 40 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+
+SCENARIO
+	[8, 9, 9, 11, 17, 18, 19, 20, 21, 22, 23, 24, 25, 30, 31, 32, 33, 34, 35, 35, 36, 36, 37, 37, 38, 38, 39, 40]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(C:\Program Files\Mozilla Firefox\firefox.exe ) STATE::>browserSearched
+
+Channel received high level event 40 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+
+SCENARIO
+	[17, 18, 19, 20, 21, 22, 23, 24, 25, 30, 31, 32, 33, 34, 35, 35, 36, 36, 37, 37, 38, 38, 39, 40]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+
+Channel received high level event 40 With Entity Mikhail
+
+SCENARIO
+	[40]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+
+Channel received high level event 40 With Entity Mikhail
+
+SCENARIO
+	[40]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+
+Channel received high level event 40 With Entity 0x0000000000095fb0
+
+SCENARIO
+	[40]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+
+Channel received high level event 40 With Entity 0x0000000000095fb0
+
+SCENARIO
+	[40]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+HLE 41 CREATED
+
+SUBTIMELINE
+
+	event 8
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x00000000000037c4, C:\Program Files\Mozilla Firefox\pingsender.exe]
+
+ANCHOR EVENTS
+	[Closed Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+
+Channel received high level event 41 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+
+SCENARIO
+	[41]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+
+Channel received high level event 41 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+
+SCENARIO
+	[41]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+
+Channel received high level event 41 With Entity Mikhail
+
+SCENARIO
+	[41]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+
+Channel received high level event 41 With Entity Mikhail
+
+SCENARIO
+	[41]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+
+Channel received high level event 41 With Entity 0x0000000000095fb0
+
+SCENARIO
+	[41]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+
+Channel received high level event 41 With Entity 0x0000000000095fb0
+
+SCENARIO
+	[41]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+HLE 42 CREATED
+
+SUBTIMELINE
+
+	event 8
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x00000000000037c4, C:\Program Files\Mozilla Firefox\pingsender.exe]
+
+ANCHOR EVENTS
+	[Closed Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+
+Channel received high level event 42 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+
+SCENARIO
+	[42]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+
+Channel received high level event 42 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+
+SCENARIO
+	[42]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+
+Channel received high level event 42 With Entity Mikhail
+
+SCENARIO
+	[42]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+
+Channel received high level event 42 With Entity Mikhail
+
+SCENARIO
+	[42]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+
+Channel received high level event 42 With Entity 0x0000000000095fb0
+
+SCENARIO
+	[42]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+
+Channel received high level event 42 With Entity 0x0000000000095fb0
+
+SCENARIO
+	[42]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+HLE 43 CREATED
+
+SUBTIMELINE
+
+	event 8
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x00000000000037c4, C:\Program Files\Mozilla Firefox\pingsender.exe]
+
+ANCHOR EVENTS
+	[Closed Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+
+Channel received high level event 43 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+
+SCENARIO
+	[43]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+
+Channel received high level event 43 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+
+SCENARIO
+	[43]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+
+Channel received high level event 43 With Entity Mikhail
+
+SCENARIO
+	[43]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+
+Channel received high level event 43 With Entity Mikhail
+
+SCENARIO
+	[43]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+
+Channel received high level event 43 With Entity 0x0000000000095fb0
+
+SCENARIO
+	[43]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+
+Channel received high level event 43 With Entity 0x0000000000095fb0
+
+SCENARIO
+	[43]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+HLE 44 CREATED
+
+SUBTIMELINE
+
+	event 8
+
+ENTITY SET
+	[S-1-5-21-560198549-2976288065-2928407696-1001, Mikhail, 0x0000000000095fb0, 0x00000000000037c4, C:\Program Files\Mozilla Firefox\pingsender.exe]
+
+ANCHOR EVENTS
+	[Closed Browser]
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+
+Channel received high level event 44 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+
+SCENARIO
+	[44]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+
+Channel received high level event 44 With Entity S-1-5-21-560198549-2976288065-2928407696-1001
+
+SCENARIO
+	[44]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(S-1-5-21-560198549-2976288065-2928407696-1001 ) STATE::>browserOpen
+
+Channel received high level event 44 With Entity Mikhail
+
+SCENARIO
+	[44]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+
+Channel received high level event 44 With Entity Mikhail
+
+SCENARIO
+	[44]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(Mikhail ) STATE::>browserOpen
+
+Channel received high level event 44 With Entity 0x0000000000095fb0
+
+SCENARIO
+	[44]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+
+Channel received high level event 44 With Entity 0x0000000000095fb0
+
+SCENARIO
+	[44]
+[scenarioConstruction]MOVED ON METHODCALL: void larva.Channel.receive(Object) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  browserClosed
+[HLEConstruction]AUTOMATON::> HLEConstruction(8 ) STATE::>normal
+[scenarioConstruction]AUTOMATON::> scenarioConstruction(0x0000000000095fb0 ) STATE::>browserOpen
+[HLEConstruction]MOVED ON METHODCALL: void larva.Clock.event(long) TO STATE::> (((SYSTEM REACHED AN ACCEPTED STATE)))  accept
+[HLEConstruction]AUTOMATON::> HLEConstruction(9 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(9 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(9 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(9 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(9 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(9 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(9 ) STATE::>start
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
+[HLEConstruction]AUTOMATON::> HLEConstruction(9 ) STATE::>normal
+[HLEConstruction]MOVED ON METHODCALL: void Main.lowLevelEventEntityReader(LowLevelEvent, Entity) TO STATE::> normal
